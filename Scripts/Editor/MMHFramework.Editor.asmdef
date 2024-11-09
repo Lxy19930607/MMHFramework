@@ -1,0 +1,16 @@
+{
+    "name": "MMHFramework.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:acdc153d4c197564c821e2fd30085956"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

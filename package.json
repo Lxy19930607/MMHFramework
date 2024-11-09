@@ -1,0 +1,20 @@
+{
+    "name": "com.mmh.mmhframework",
+    "version": "1.0.0",
+    "displayName": "MMHFramework",
+    "description": "MMHFramework",
+    "unity": "2022.3",
+    "dependencies": 
+    {
+        "com.unity.ugui": "1.0.0"
+    },
+    "author": 
+    {
+        "name": "Samuel Leung"
+    },
+    "repository": 
+    {
+        "type": "git",
+        "url": "https://github.com/Lxy19930607/MMHFramework.git"
+    }
+}
